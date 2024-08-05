@@ -39,10 +39,11 @@
 
 # Frontend
     
-    ## 💡 HTML 
+ ## 💡 HTML 
         - Semantic HTML
 
-    ## 💡 CSS
+
+## 💡 CSS
         - Display - block, inline, flex, grid, inline-block
         - Floats & clears
         - responsive media queries and responsive units
@@ -59,7 +60,7 @@
     </details>
 
 
-    ## 💡 DOM selectors
+## 💡 DOM selectors
 
         - how to select DOM elements (click, input, submit)
         - traverse the DOM tree using properties like parentNode, childNode, children, firstChild, lastChild
@@ -95,9 +96,9 @@
     <details>
         <summary>Learning Plan and Priorities </summary>    
 
-           - ### Plan 8 : Make a age / tip calculator app,
-            -###  Plan 9 make a credit card detail form,              
-            -### plan 10 use API and make a website
+           ### Plan 8 : Make a age / tip calculator app,
+            ###  Plan 9 make a credit card detail form,              
+            ### plan 10 use API and make a website
     </details>
 
 
@@ -134,11 +135,14 @@
         - ### Plan 11  https://medium.com/@fyattani/20-simple-javascript-and-api-projects-for-practice-and-learning-e98925ec4e1d
 
         - ### Plan 12 -https://zerotomastery.io/blog/node-js-projects-for-beginners-and-above/
+    </details>
 
 
 # Database
    
-    -  💡 SQL 
+- 💡 SQL
+
+  
       - commands- SELECT, INSERT INTO, UPDATE, DELETE INTO
       - creating and modifying database structures - CREATE TABLE, ALTER TABLE, DROP TABLE
       - SQL queries - SELECT, WHERE, ORDER BY, LIMIT
@@ -148,12 +152,23 @@
       - group - GROUP BY, HAVING
       - subqueries in SELECT, FROM, WHERE, HAVING
         - EXISTS, IN, ANY, ALL
+
+ <details>
+        <summary>Learning Plan and Priorities </summary>  
+            ### - Plan 13 -  https://www.upgrad.com/blog/sql-project-ideas-topics-for-beginners/ 
+    </details>
+
+     
    
-    -  💡Database Design 
+-  💡Database Design
+-  
       - Primary and Foreign Keys
-      -     
-    -  💡ERD using Mermaid and chatGPT
-    - Use PostgreSQL
+           
+-  💡ERD using Mermaid and chatGPT
+- 
+    
+- 💡 Use PostgreSQL
+  
     - Write SQL script  to set up database
     - Use pg package  to connect external database from node/express app
     - secure db credentials within environment variables
@@ -162,7 +177,7 @@
 
     <details>
         <summary>Learning Plan and Priorities </summary>  
-            ### - Plan 13 - https://roadmap.sh/backend/project-ideas
-            ### - Plan 14 https://www.youtube.com/watch?v=RQcsksmMYTE&t=69s
-            ### - Plan 15 complete weekly module tech tests
+            ### - Plan 14 - https://roadmap.sh/backend/project-ideas
+            ### - Plan 15 https://www.youtube.com/watch?v=RQcsksmMYTE&t=69s
+            ### - Plan 16 complete weekly module tech tests
     </details>
