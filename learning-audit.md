@@ -110,7 +110,14 @@
     - make GET request to a server
     - Node installing and running JS in Node
     - NPM packages - how to initialise a NPM project using npm init & install npm packages
-    - Express to build servers and APIs, handle routes, request and responses, parsing request bodies, session management, user authentication, error handling
+    - Express to
+        -build servers and APIs, 
+        - handle routes, 
+        - request and responses,
+        - parsing request bodies, 
+        - session management, 
+        - user authentication, 
+        - error handling
     - Week4 day1 - Escape room Project to be done - GET, POST using Postman
     - default exports
     - named exports
@@ -120,11 +127,18 @@
         - CRUD operations
         - Status codes an  methods
         - Authentication and authorization
-          - - custom function (write this) being used as middleware in front of the event handler that checks the request for a header called “Authorisation”, with the value of “Bearer TEST_TOKEN”. The middleware calls next with an error if needed
-    - Complete the REST API that allow a client to track exercise activities allowing user to  GET/POST/UPDATE/DELETE an existing activity
+          -custom function (write this) being used as middleware in front of the event handler 
+          that checks the request for a header called “Authorisation”, 
+          with the value of “Bearer TEST_TOKEN”. 
+          The middleware calls next with an error if needed
+    - Complete the REST API that allow a client to track exercise activities 
+    allowing user to  GET/POST/UPDATE/DELETE an existing activity
     - Express validator to check the expected request inputs
     
-    - invalid DELETE request by not sending the “Authorisation” header,When I inspect the API response, Then the the API call should fail with the correct response code and a clear error message (response.error).
+    - invalid DELETE request by not sending the “Authorisation” header,
+     When I inspect the API response, 
+     Then the the API call should fail with the correct response code 
+     and a clear error message (response.error).
     - Working with files
     - use the fs node module to read and write JSON files
     -how to read a JSON file using the promises version 
