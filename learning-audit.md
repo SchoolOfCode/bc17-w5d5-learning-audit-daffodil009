@@ -3,6 +3,8 @@
 ###  💡 Git and Github
         - add, commit, push
         - Git branching
+
+        
     <details>
         <summary>Learning Plan and Priorities </summary>
             ### - Plan1 - https://git-scm.com/book/en/v2
@@ -131,12 +133,13 @@
     - Module tech test
 
     <details>
-        <summary>Learning Plan and Priorities </summary>  
-        - ### Plan 11  https://medium.com/@fyattani/20-simple-javascript-and-api-projects-for-practice-and-learning-e98925ec4e1d
+            <summary>Learning Plan and Priorities </summary>  
+               ### Plan 11  https://medium.com/@fyattani/20-simple-javascript-and-api-projects-for-practice-and-learning-e98925ec4e1d
 
-        - ### Plan 12 -https://zerotomastery.io/blog/node-js-projects-for-beginners-and-above/
+                ### Plan 12 -https://zerotomastery.io/blog/node-js-projects-for-beginners-and-above/
     </details>
-
+    
+    
 
 # Database
    
@@ -153,9 +156,9 @@
       - subqueries in SELECT, FROM, WHERE, HAVING
         - EXISTS, IN, ANY, ALL
 
- <details>
-        <summary>Learning Plan and Priorities </summary>  
-            ### - Plan 13 -  https://www.upgrad.com/blog/sql-project-ideas-topics-for-beginners/ 
+     <details>
+            <summary>Learning Plan and Priorities </summary>  
+                ### - Plan 13 -  https://www.upgrad.com/blog/sql-project-ideas-topics-for-beginners/ 
     </details>
 
      
