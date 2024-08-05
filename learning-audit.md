@@ -1,7 +1,7 @@
 # Onboarding
     
-    ## Git and Github
-        - add, commit, push</p>
+###  💡 Git and Github
+        - add, commit, push
         - Git branching
     <details>
         <summary>Learning Plan and Priorities </summary>
@@ -15,7 +15,9 @@
 
 # Software
         
-    ##Javascript 
+### 💡 Javascript 
+
+
         - operators
         - Objects
         - Arrays
@@ -37,10 +39,10 @@
 
 # Frontend
     
-    ## HTML 
+    ## 💡 HTML 
         - Semantic HTML
 
-    ## CSS
+    ## 💡 CSS
         - Display - block, inline, flex, grid, inline-block
         - Floats & clears
         - responsive media queries and responsive units
@@ -57,7 +59,7 @@
     </details>
 
 
-    ## DOM selectors
+    ## 💡 DOM selectors
 
         - how to select DOM elements (click, input, submit)
         - traverse the DOM tree using properties like parentNode, childNode, children, firstChild, lastChild
@@ -136,7 +138,7 @@
 
 # Database
    
-    - SQL 
+    -  💡 SQL 
       - commands- SELECT, INSERT INTO, UPDATE, DELETE INTO
       - creating and modifying database structures - CREATE TABLE, ALTER TABLE, DROP TABLE
       - SQL queries - SELECT, WHERE, ORDER BY, LIMIT
@@ -147,10 +149,10 @@
       - subqueries in SELECT, FROM, WHERE, HAVING
         - EXISTS, IN, ANY, ALL
    
-    - Database Design 
+    -  💡Database Design 
       - Primary and Foreign Keys
       -     
-    - ERD using Mermaid and chatGPT
+    -  💡ERD using Mermaid and chatGPT
     - Use PostgreSQL
     - Write SQL script  to set up database
     - Use pg package  to connect external database from node/express app
