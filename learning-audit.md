@@ -97,7 +97,7 @@
 
     <details>
         <summary>Learning Plan and Priorities </summary>    
-
+                https://exercism.org/tracks/javascript/concepts 
            ### Plan 8 : Make a age / tip calculator app,
             ###  Plan 9 make a credit card detail form,              
             ### plan 10 use API and make a website
